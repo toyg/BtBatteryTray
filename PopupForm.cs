@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Giacomo Lacava
+// Licensed under the MIT License. See LICENSE in the project root for license information.
+
 namespace BTChargeInTray
 {
     /// <summary>Small borderless flyout listing every monitored device.</summary>
