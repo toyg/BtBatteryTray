@@ -15,7 +15,15 @@
     <Compile Remove="old\**" />
     <EmbeddedResource Remove="old\**" />
     <None Remove="old\**" />
+    <Compile Remove="tests\**" />
+    <EmbeddedResource Remove="tests\**" />
+    <None Remove="tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="BtBatteryTray.Tests" />
   </ItemGroup>
 
 </Project>
+
 

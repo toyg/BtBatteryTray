@@ -11,7 +11,7 @@ A small Windows system tray utility that shows the battery level of your Bluetoo
   | Level | Icon shows |
   |---|---|
   | 0-9% | `0` |
-  | 60-69% | `6` |
+  | 10-99% | `1` to `9` |
   | 100% | `F` |
   | all devices offline | `–` (grey) |
 
